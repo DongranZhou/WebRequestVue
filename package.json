@@ -8,6 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.25.0",
+    "element-plus": "^2.0.1",
+    "jsoneditor": "^9.7.2",
     "vue": "^3.2.25"
   },
   "devDependencies": {
